@@ -1,0 +1,11 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.banner{
+    height: 130px;
+}
+
+#nome{
+    padding-left:2%;
+}
