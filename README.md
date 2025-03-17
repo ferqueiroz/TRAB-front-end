@@ -5,5 +5,5 @@ nossa habilidade com o front end
 
 Integrantes do grupo:
 
-  Fernando Queiroz
-  Vitor Hugo de Assis
+  Fernando Queiroz / 24038237-2
+  Vitor Hugo Assis da Silva / 24140023-2 
