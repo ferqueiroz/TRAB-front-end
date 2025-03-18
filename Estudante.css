@@ -3,9 +3,25 @@ body {
 }
 
 .banner{
-    height: 130px;
+    height: 200px;
+    background-color: rgb(196, 196, 196);
 }
 
-#nome{
-    padding-left:2%;
+
+#foto{
+    position: absolute;
+    border-radius: 50%;
+    left: 3%;
+    bottom: 35%;
+}
+
+.informacoes{
+    padding-left:3%;
+    padding-top: 5%;
+    max-width: 97%;
+}
+
+.unicesumar{
+    position: absolute;
+    right: 4%;
 }
