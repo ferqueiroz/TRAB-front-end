@@ -1,27 +1,32 @@
 body {
     background-color: #f4f4f4;
+    overflow-x: hidden;
 }
 
 .banner{
     height: 200px;
-    background-color: rgb(196, 196, 196);
+    background-color: rgb(73, 73, 73);
 }
-
 
 #foto{
     position: absolute;
     border-radius: 50%;
     left: 3%;
-    bottom: 35%;
+    bottom: 36%;
 }
 
 .informacoes{
     padding-left:3%;
-    padding-top: 5%;
+    margin-top: 6%;
     max-width: 97%;
 }
 
 .unicesumar{
     position: absolute;
-    right: 4%;
+    right: 5%;
+}
+
+.card{
+    display: flex;
+    text-decoration: none;
 }
